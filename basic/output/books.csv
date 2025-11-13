@@ -1,0 +1,23 @@
+id;title;author_id;year
+B-000000;Iusto quidem.;Ifjúsági;1962;A-000002;
+B-000001;Alias quasi quia.;Romantikus;1979;A-000002;
+B-000002;Temporibus illo.;Fantasy;1969;A-000018;O-000003
+B-000003;Eum ipsa.;Novella;2008;A-000007;O-000001
+B-000004;Eos tenetur.;Novella;1926;A-000001;O-000013
+B-000005;Laborum harum.;Novella;1974;A-000000;O-000002
+B-000006;Eaque ad sint.;Ifjúsági;2013;A-000018;
+B-000007;Eligendi voluptates beatae.;Ifjúsági;1925;A-000020;O-000018
+B-000008;Rerum nostrum.;Fantasy;1947;A-000016;
+B-000009;Mollitia.;Novella;1997;A-000008;
+B-000010;Aspernatur laudantium.;Sci-fi;1969;A-000017;O-000015
+B-000011;Dolorem.;Romantikus;1911;A-000018;
+B-000012;Blanditiis tempore nobis.;Fantasy;1981;A-000005;
+B-000013;Nulla impedit assumenda.;Fantasy;1936;A-000015;
+B-000014;Fuga iste exercitationem.;Sci-fi;1922;A-000017;
+B-000015;Saepe.;Romantikus;1917;A-000002;O-000007
+B-000016;Repellendus nulla maxime.;Horror;1980;A-000004;
+B-000017;Quibusdam ducimus nemo.;Sci-fi;1927;A-000010;O-000011
+B-000018;Vel debitis.;Romantikus;1956;A-000016;O-000019
+B-000019;Repellendus quibusdam.;Ifjúsági;1944;A-000016;O-000017
+B-000020;Aspernatur ad voluptas eius.;Fantasy;1970;A-000006;O-000011
+B-000021;Ratione soluta.;Novella;1933;A-000008;

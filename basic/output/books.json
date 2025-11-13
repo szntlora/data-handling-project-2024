@@ -1,0 +1,178 @@
+[
+  {
+    "id": "B-000000",
+    "title": "Iusto quidem.",
+    "genre": "Ifj\u00fas\u00e1gi",
+    "publication_year": 1962,
+    "author_id": "A-000002",
+    "person_id": null
+  },
+  {
+    "id": "B-000001",
+    "title": "Alias quasi quia.",
+    "genre": "Romantikus",
+    "publication_year": 1979,
+    "author_id": "A-000002",
+    "person_id": null
+  },
+  {
+    "id": "B-000002",
+    "title": "Temporibus illo.",
+    "genre": "Fantasy",
+    "publication_year": 1969,
+    "author_id": "A-000018",
+    "person_id": "O-000003"
+  },
+  {
+    "id": "B-000003",
+    "title": "Eum ipsa.",
+    "genre": "Novella",
+    "publication_year": 2008,
+    "author_id": "A-000007",
+    "person_id": "O-000001"
+  },
+  {
+    "id": "B-000004",
+    "title": "Eos tenetur.",
+    "genre": "Novella",
+    "publication_year": 1926,
+    "author_id": "A-000001",
+    "person_id": "O-000013"
+  },
+  {
+    "id": "B-000005",
+    "title": "Laborum harum.",
+    "genre": "Novella",
+    "publication_year": 1974,
+    "author_id": "A-000000",
+    "person_id": "O-000002"
+  },
+  {
+    "id": "B-000006",
+    "title": "Eaque ad sint.",
+    "genre": "Ifj\u00fas\u00e1gi",
+    "publication_year": 2013,
+    "author_id": "A-000018",
+    "person_id": null
+  },
+  {
+    "id": "B-000007",
+    "title": "Eligendi voluptates beatae.",
+    "genre": "Ifj\u00fas\u00e1gi",
+    "publication_year": 1925,
+    "author_id": "A-000020",
+    "person_id": "O-000018"
+  },
+  {
+    "id": "B-000008",
+    "title": "Rerum nostrum.",
+    "genre": "Fantasy",
+    "publication_year": 1947,
+    "author_id": "A-000016",
+    "person_id": null
+  },
+  {
+    "id": "B-000009",
+    "title": "Mollitia.",
+    "genre": "Novella",
+    "publication_year": 1997,
+    "author_id": "A-000008",
+    "person_id": null
+  },
+  {
+    "id": "B-000010",
+    "title": "Aspernatur laudantium.",
+    "genre": "Sci-fi",
+    "publication_year": 1969,
+    "author_id": "A-000017",
+    "person_id": "O-000015"
+  },
+  {
+    "id": "B-000011",
+    "title": "Dolorem.",
+    "genre": "Romantikus",
+    "publication_year": 1911,
+    "author_id": "A-000018",
+    "person_id": null
+  },
+  {
+    "id": "B-000012",
+    "title": "Blanditiis tempore nobis.",
+    "genre": "Fantasy",
+    "publication_year": 1981,
+    "author_id": "A-000005",
+    "person_id": null
+  },
+  {
+    "id": "B-000013",
+    "title": "Nulla impedit assumenda.",
+    "genre": "Fantasy",
+    "publication_year": 1936,
+    "author_id": "A-000015",
+    "person_id": null
+  },
+  {
+    "id": "B-000014",
+    "title": "Fuga iste exercitationem.",
+    "genre": "Sci-fi",
+    "publication_year": 1922,
+    "author_id": "A-000017",
+    "person_id": null
+  },
+  {
+    "id": "B-000015",
+    "title": "Saepe.",
+    "genre": "Romantikus",
+    "publication_year": 1917,
+    "author_id": "A-000002",
+    "person_id": "O-000007"
+  },
+  {
+    "id": "B-000016",
+    "title": "Repellendus nulla maxime.",
+    "genre": "Horror",
+    "publication_year": 1980,
+    "author_id": "A-000004",
+    "person_id": null
+  },
+  {
+    "id": "B-000017",
+    "title": "Quibusdam ducimus nemo.",
+    "genre": "Sci-fi",
+    "publication_year": 1927,
+    "author_id": "A-000010",
+    "person_id": "O-000011"
+  },
+  {
+    "id": "B-000018",
+    "title": "Vel debitis.",
+    "genre": "Romantikus",
+    "publication_year": 1956,
+    "author_id": "A-000016",
+    "person_id": "O-000019"
+  },
+  {
+    "id": "B-000019",
+    "title": "Repellendus quibusdam.",
+    "genre": "Ifj\u00fas\u00e1gi",
+    "publication_year": 1944,
+    "author_id": "A-000016",
+    "person_id": "O-000017"
+  },
+  {
+    "id": "B-000020",
+    "title": "Aspernatur ad voluptas eius.",
+    "genre": "Fantasy",
+    "publication_year": 1970,
+    "author_id": "A-000006",
+    "person_id": "O-000011"
+  },
+  {
+    "id": "B-000021",
+    "title": "Ratione soluta.",
+    "genre": "Novella",
+    "publication_year": 1933,
+    "author_id": "A-000008",
+    "person_id": null
+  }
+]
