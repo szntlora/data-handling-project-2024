@@ -1,0 +1,1 @@
+This project is a complete data-handling workflow built around a small library-style system. It includes generating data, saving it in multiple formats, and integrating with an Oracle database. The goal was to demonstrate different ways of storing, processing, and managing structured data using Python.
